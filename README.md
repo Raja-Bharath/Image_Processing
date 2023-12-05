@@ -3,6 +3,12 @@ Welcome to the world of Image Processing Basics! This repository serves as an in
 
 ## File Descriptions
 
+### Image_Loading_Displaying.py
+- Basic script to load and display images using OpenCV and other image processing libraries.
+
+### Image_Transformation.py
+- Includes techniques for image transformation, such as resizing, rotating, and flipping images.
+  
 ### Blur.py
 - Script demonstrating various techniques for blurring images using filters like Gaussian blur and average blur.
 
@@ -18,11 +24,7 @@ Welcome to the world of Image Processing Basics! This repository serves as an in
 ### Histogram.py
 - Demonstrates how to analyze and plot histograms for image distributions, showcasing pixel intensity distributions.
 
-### Image_Loading_Displaying.py
-- Basic script to load and display images using OpenCV and other image processing libraries.
 
-### Image_Transformation.py
-- Includes techniques for image transformation, such as resizing, rotating, and flipping images.
 
 ### Masking.py
 - Covers image masking techniques, including applying masks to isolate specific areas of an image.
